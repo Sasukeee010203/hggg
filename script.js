@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Em chắc chắn chứ?",
+    "Cậu chắc chắn chứ?",
     "Thật sự chắc chắn luôn á??",
-    "Em dám khẳng định điều đó luôn hả? 🥺",
-    "emmm ơi, làm ơn nha..😖",
+    "Cậu thiệt sự không mún hả? 🥺",
+    "Cậu ơi, làm ơn nha..😖",
     "Chỉ cần suy nghĩ lại một chút thôi mà!",
-    "Nếu em nói không, anh sẽ buồn lắm đó... 😢",
-    "Anh sẽ rất rất buồn luôn á...",
-    "Anh sẽ buồn ơi là buồn luôn đó... 😭",
-    "Thôi được rồi... anh sẽ ngưng hỏi...",
+    "Nếu cậu nói không thì tui sẽ buồn lắm đó... 😢",
+    "Tui sẽ rất rất là buồn luôn á...",
+    "Tui sẽ buồn ơi là buồn luôn đó... 😭",
+    "Thôi được rồi... Tui sẽ ngưng hỏi...",
     "Giỡn thôi đó! Đồng ý đi mà, pleaseee ❤️"
 ];
 
